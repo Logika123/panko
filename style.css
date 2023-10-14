@@ -1,0 +1,104 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(98, 212, 94);
+}
+
+header {
+    border: 5px solid green;
+    border-radius: 10px;
+    color: orange;
+    padding: 3px;
+    background-color: green;
+}
+
+header img {
+    background-color: white;
+    border: green;
+    border-radius: 10px;
+}
+
+header a {
+    text-decoration: none;
+    border: green;
+    border-radius: 10px;
+    background-color: lightgreen;
+    padding: 3px;
+}
+
+main h1 {
+    text-align: center;
+    color: purple;
+}
+
+footer {
+    background-color: grey;
+    border: 1px solid grey;
+    padding: 2px;
+}
+
+footer p {
+    background-color: lightgrey;
+    border: lightgrey;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+nav {
+    border: 1px solid black;
+    margin: 25px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    margin: 20px;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: lightgrey;
+}
+.pon {
+    background-color: khaki;
+    text-align: center;
+    border: 1px solid khaki;
+    border-radius: 10px;
+}
+
+.pon2 {
+    text-align: center;
+    background-color: khaki;
+    border: khaki;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.pon3 {
+    text-align: center;
+    background-color: khaki;
+    border: khaki;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.pon4 {
+    text-align: center;
+    background-color: khaki;
+    border: 1px solid khaki;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.part {
+    text-align: center;
+}
+
+.sektor {
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
